@@ -1,8 +1,6 @@
-# React + Vite
+# Modern React with Vite Net Ninja
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+In this repository I have pushed all the files that I have created and learned by following Net Ninja's [Modern React Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d&si=IRwx8QeFk7R-lvc-) playlist.
 
-Currently, two official plugins are available:
+Here I have used ReactJS with [Vite](https://vitejs.dev/).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
